@@ -1,0 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight,
+.welcome-text{
+    color:#03fc49;
+}
